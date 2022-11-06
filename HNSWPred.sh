@@ -1,0 +1,2 @@
+module load compiler/gcc/9.1/openmpi/4.0.2
+mpirun -np 5 /home/cse/btech/cs1190356/scratch/A3/run /home/cse/btech/cs1190356/scratch/A3/convertedData/ 5 /scratch/cse/phd/anz198717/TA/COL380/A3/to_students/user.txt /home/cse/btech/cs1190356/scratch/A3/ans.txt
